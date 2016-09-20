@@ -1,0 +1,17 @@
+{
+  "name": "angular-country-select",
+  "authors": [
+    "Sanchit <dev@minutephp.com>"
+  ],
+  "description": "fills select box with list of countries",
+  "main": "src/js/angular-country-select.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
