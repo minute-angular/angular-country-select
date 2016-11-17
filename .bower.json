@@ -14,12 +14,12 @@
     "test",
     "tests"
   ],
-  "version": "0.0.2",
-  "_release": "0.0.2",
+  "version": "0.0.3",
+  "_release": "0.0.3",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.2",
-    "commit": "5b0399801ba1393109565d730a3dbb198094b566"
+    "tag": "v0.0.3",
+    "commit": "5b1c09dde395e39be0b63d5c793110abdd9a0de0"
   },
   "_source": "git://github.com/minutejs/angular-country-select.git",
   "_target": "*",
